@@ -3,9 +3,9 @@
 
 name = "Aerial"
 license = "Creative Commons Attribution 3.0 Unported"
-licenselink = "http://creativecommons.org/licenses/by/3.0/"
+licenselink = "https://github.com/sethmacleod/aerial/blob/master/LICENSE.md"
 description = "Ported theme of HTML5 UP's Aerial: a single page, single screen responsive site template."
-homepage = "http://siteforthistheme.com/"
+homepage = "https://github.com/sethmacleod/aerial"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.18

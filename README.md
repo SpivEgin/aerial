@@ -1,6 +1,8 @@
 # Aerial
 
-Aerial is a single page, single screen responsive site template. It is a port of [HTML5 UP's Aerial theme](https://html5up.net/aerial). 
+Aerial is a single page, single screen responsive site template. It is a port of [HTML5 UP's Aerial theme](https://html5up.net/aerial).
+
+![Aerial Theme screenshot](https://raw.githubusercontent.com/sethmacleod/aerial/master/images/screenshot.png)
 
 ## Installation
 

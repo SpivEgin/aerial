@@ -7,6 +7,8 @@ theme = "aerial"
   name = "Adam Jensen"
   about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
   copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
 
 [[params.social]]
   medium = "Twitter"
